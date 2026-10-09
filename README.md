@@ -6,6 +6,8 @@ Desenvolvedor **full-stack** com foco em **TypeScript, React e Supabase/Postgres
 
 ## 🛠️ Stack
 
+[![Stack](https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,deno,supabase,postgres,cloudflare,git,githubactions)](https://skillicons.dev)
+
 **Front-end:** React · TypeScript · Vite · Tailwind CSS
 **Back-end:** Supabase · PostgreSQL (RLS, migrações) · Edge Functions em Deno · APIs REST
 **Automação e IA:** agentes de atendimento com LLM · integrações de WhatsApp · fluxos de follow-up
