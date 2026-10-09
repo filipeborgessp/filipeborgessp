@@ -11,9 +11,10 @@ Desenvolvedor **full-stack** com foco em **TypeScript, React e Supabase/Postgres
 **Automação e IA:** agentes de atendimento com LLM · integrações de WhatsApp · fluxos de follow-up
 **Engenharia:** Git (worktrees, Conventional Commits) · GitHub Actions · code review · testes automatizados
 
-## 💼 O que faço hoje
+## 💼 Experiência
 
-Desenvolvo uma **plataforma de CRM e atendimento multi-tenant** (código privado da empresa). Alguns exemplos do que entreguei:
+### Codex — Desenvolvedor full-stack
+Atuo no **Nav**, a plataforma de CRM e atendimento da **PromoAção** (cruzeiros temáticos): CRM multi-tenant, atendimento por WhatsApp com agentes de IA, construtor de fluxos e automações de follow-up. Código privado do cliente. Alguns exemplos do que entreguei:
 
 - **Automações de follow-up:** tela dedicada às réguas de follow-up, envio de mídia com miniatura e monitor de execuções de fluxos.
 - **Segurança multi-tenant:** isolamento de dados por tenant com Row Level Security no Postgres e correções de papel/perfil de usuários que pertencem a mais de uma empresa.
